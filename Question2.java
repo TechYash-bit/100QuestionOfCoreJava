@@ -12,4 +12,7 @@ public class Question2{
 
         System.out.println("sum is  "+ (a+b));
     }
+
+
+    
 }
